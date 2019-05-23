@@ -1,1 +1,2 @@
 # Speed-Test
+Has a board and a simple box with some kind of music playing. In the top left there is a shape with some color. Two other shapes appear on the board, one which matches the 'goal' shape in the corner, and some other shape. When the user clicks on the correct shape, a new shape appears as the "goal" and some kind of success noise plays. Keeps track of score in the top right, just displaying how many they have gotten correct. Repeats until they click the wrong shape. Music then changed to some kind of defeated music.
